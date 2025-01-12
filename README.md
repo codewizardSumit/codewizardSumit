@@ -1,6 +1,6 @@
 👋 Hi, I'm @codewizardSumit!
 
-👀 My passions lie in the realms of cybersecurity, ethical hacking, and crafting malware.
+👀 My passions lie in the realms of cybersecurity, ethical hacking, and software solutions.
 
 🌱 Currently, I'm immersed in mastering programming languages including C, C++, Java, Python, and Shell scripting, alongside honing my skills in penetration testing.
 
