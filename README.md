@@ -1,18 +1,19 @@
-👋 Hi, I'm @codewizardSumit!
+👋 Hi, I'm Sumit Kumar (@codewizardSumit)!
 
-👀 My passions lie in the realms of cybersecurity, ethical hacking, and software solutions.
+I’m an AI Engineer focused on building LLM-based systems, agentic workflows, and Retrieval-Augmented Generation (RAG) applications.
 
-🌱 Currently, I'm immersed in mastering programming languages including C, C++, Java, Python, and Shell scripting, alongside honing my skills in penetration testing.
+🚀 Currently, I’m building FRAF-AI, a pre-launch SaaS platform, where I work on LLM orchestration, agentic automation, backend systems, and AI infrastructure. My work includes local-first LLM routing with Ollama/Qwen, FastAPI-based asynchronous services, and browser automation using Playwright MCP and Stagehand.
 
-💞 I'm eager to collaborate on open-source projects and delve into the intricacies of Malware development.
+🤖 I enjoy working with Python, PyTorch, Hugging Face, LangChain, LangGraph, LlamaIndex, FastAPI, Qdrant, Redis, PostgreSQL, and PEFT/LoRA for LLM fine-tuning.
 
-📫 Reach out to me via Email: [Sumit Kumar](vidyanshugautam01@gmail.com)
+🔎 I’m particularly interested in LLMs, RAG, agentic AI, model orchestration, information retrieval, AI automation, and building reliable production systems.
 
-😄 Pronouns: he/his
+🔐 I also have a background in cybersecurity and have designed 11+ CTF challenges covering web exploitation, cryptography, and binary exploitation.
 
-⚡ Fun fact: Once, I hacked myself just to explore the limits of my skills!
+🌱 Always learning, experimenting, and building around AI, machine learning, cybersecurity, and software engineering.
 
-<!---
-codewizardSumit/codewizardSumit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤝 Open to collaborating on interesting AI, open-source, and security-focused projects.
+
+📫 Email: [vidyanshugautam01@gmail.com](mailto:vidyanshugautam01@gmail.com)
+
+⚡ Fun fact: I enjoy breaking systems apart just to understand how they work—and then building them back better.
