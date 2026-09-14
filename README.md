@@ -1,19 +1,26 @@
-👋 Hi, I'm Sumit Kumar (@codewizardSumit)!
+# Hi 👋, I'm Sumit Kumar
 
-I’m an AI Engineer focused on building LLM-based systems, agentic workflows, and Retrieval-Augmented Generation (RAG) applications.
+I'm an AI Engineer and Data Analyst who likes understanding how things work under the hood and then building something with that knowledge.
 
-🚀 Currently, I’m building FRAF-AI, a pre-launch SaaS platform, where I work on LLM orchestration, agentic automation, backend systems, and AI infrastructure. My work includes local-first LLM routing with Ollama/Qwen, FastAPI-based asynchronous services, and browser automation using Playwright MCP and Stagehand.
+Right now, I'm building **FRAF-AI**, a pre-launch SaaS project where I work on LLM systems, RAG, agentic workflows, backend services, and automation.
 
-🤖 I enjoy working with Python, PyTorch, Hugging Face, LangChain, LangGraph, LlamaIndex, FastAPI, Qdrant, Redis, PostgreSQL, and PEFT/LoRA for LLM fine-tuning.
+Most of my work is in **Python**, and I've been working with things like **FastAPI, PostgreSQL, Qdrant, Redis, PyTorch, Hugging Face, LangChain, and LangGraph**. I've also spent a lot of time experimenting with local LLMs, model routing, fine-tuning, and AI-driven automation.
 
-🔎 I’m particularly interested in LLMs, RAG, agentic AI, model orchestration, information retrieval, AI automation, and building reliable production systems.
+I also enjoy working with data — cleaning and preparing datasets, querying databases, analysing results, and figuring out what the data is actually telling me.
 
-🔐 I also have a background in cybersecurity and have designed 11+ CTF challenges covering web exploitation, cryptography, and binary exploitation.
+Some things I'm particularly interested in:
+- LLMs and RAG
+- Agentic AI and AI automation
+- Information retrieval
+- Data analysis
+- Model evaluation and fine-tuning
+- Building reliable backend systems
+- AI security — Cybersecurity
 
-🌱 Always learning, experimenting, and building around AI, machine learning, cybersecurity, and software engineering.
+Before getting deep into AI, I spent time exploring cybersecurity and built **11+ CTF challenges** involving web exploitation, cryptography, and binary exploitation.
 
-🤝 Open to collaborating on interesting AI, open-source, and security-focused projects.
+I learn mostly by building things, breaking them, figuring out why they broke, and trying to build them better the second time.
 
-📫 Email: [vidyanshugautam01@gmail.com](mailto:vidyanshugautam01@gmail.com)
+📫 **Email:** [vidyanshugautam01@gmail.com](mailto:vidyanshugautam01@gmail.com)
 
-⚡ Fun fact: I enjoy breaking systems apart just to understand how they work—and then building them back better.
+🔗 **LinkedIn:** [linkedin.com/in/sumitkumar1st](https://linkedin.com/in/sumitkumar1st)
